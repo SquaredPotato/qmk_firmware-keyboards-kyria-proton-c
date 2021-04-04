@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:fix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hf" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:internal" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d65390fb-da98-4c05-af90-165757fa42dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1XFycQSz6KlPn8eMPm0cWfmI5LI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d65390fb-da98-4c05-af90-165757fa42dd" name="Default Changelist" comment="" />
+      <created>1580656215243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580656215243</updated>
+      <workItem from="1580656216463" duration="358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="BRANCHES_LOG">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1177" y="329" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580656507128">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1177" y="329" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1440@0.0.3440.1440" timestamp="1580656507128" />
+    <state x="1455" y="449" width="515" height="524" key="#com.intellij.tools.ToolEditorDialog" timestamp="1580656451150">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1455" y="449" width="515" height="524" key="#com.intellij.tools.ToolEditorDialog/0.0.3440.1440@0.0.3440.1440" timestamp="1580656451150" />
+    <state x="0" y="0" width="3440" height="1440" key="IDE.errors.dialog" timestamp="1580656375301">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="0" y="0" width="3440" height="1440" key="IDE.errors.dialog/0.0.3440.1440@0.0.3440.1440" timestamp="1580656375301" />
+    <state x="1200" y="306" key="SettingsEditor" timestamp="1580656492448">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1200" y="306" key="SettingsEditor/0.0.3440.1440@0.0.3440.1440" timestamp="1580656492448" />
+    <state x="1599" y="385" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1580656452214">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1599" y="385" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.3440.1440@0.0.3440.1440" timestamp="1580656452214" />
+  </component>
+</project>
